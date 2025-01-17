@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "562197831639",
+    "project_id": "shop-sizzle",
+    "storage_bucket": "shop-sizzle.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562197831639:android:e856379445b43c1e6df592",
+        "android_client_info": {
+          "package_name": "com.android.shop_sizzle"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDrpqM2ChHu8E1hHPi9HvWUK70290yJOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
